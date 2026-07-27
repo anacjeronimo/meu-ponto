@@ -20,7 +20,7 @@
 
 ## 🚧 Sprint 2 - Wireframes
 
-- [ ] Home
+- [x] Home
 - [ ] Histórico
 - [ ] Novo Comprovante
 - [ ] Detalhes
