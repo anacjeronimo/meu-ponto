@@ -32,5 +32,5 @@ O projeto surgiu da necessidade de guardar comprovantes emitidos por relógios d
 
 | Data | Progresso |
 |-------|-----------|
-| 22/07/2026 | Planejamento do projeto e criação da identidade visual. |
-| 23/07/2026 | Conclusão do Design System e dos primeiros componentes reutilizáveis. |
+|📅 Dia 1 - 22/07/2026 | Planejamento do projeto e criação da identidade visual. |
+|📅 Dia 2 - 23/07/2026 | Conclusão do Design System e dos primeiros componentes reutilizáveis. |
